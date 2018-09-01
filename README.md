@@ -4,3 +4,5 @@ Python is the world's fastest growing and most popular programming language used
 machine engineers alike.
 
 Codecademy makes it easy for anyone to learn and practice Python!
+
+This repository contains their entire Python track solution.
